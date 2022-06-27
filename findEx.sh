@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# find /usr -maxdepth 2 -type f -perm /a=x > exe.txt
+
 for folder in /usr/*
 do
     for file in "$folder"/*
