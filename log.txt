@@ -1,0 +1,6 @@
+0 /var/log/ubuntu-advantage.log
+0 /var/log/btmp
+0 /var/log/wtmp
+5551 /var/log/alternatives.log
+131045 /var/log/dpkg.log
+292292 /var/log/lastlog
