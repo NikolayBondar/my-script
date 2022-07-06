@@ -1,10 +1,48 @@
-0 /var/log/landscape/sysinfo.log
-0 /var/log/ubuntu-advantage.log
-0 /var/log/btmp
-0 /var/log/wtmp
-5551 /var/log/alternatives.log
-11926 /var/log/apt/history.log
-25028 /var/log/apt/eipp.log.xz
-66206 /var/log/apt/term.log
-131045 /var/log/dpkg.log
-292292 /var/log/lastlog
+/var/log/ubuntu-advantage.log
+/var/log/apt/term.log
+/var/log/apport.log
+/var/log/unattended-upgrades/unattended-upgrades-dpkg.log
+/var/log/alternatives.log
+/var/log/apt/history.log
+/var/log/dpkg.log
+/var/log/installer/casper-md5check.json
+/var/log/installer/media-info
+/var/log/unattended-upgrades/unattended-upgrades-shutdown.log.1.gz
+/var/log/btmp
+/var/log/unattended-upgrades/unattended-upgrades-shutdown.log
+/var/log/apport.log.7.gz
+/var/log/apport.log.3.gz
+/var/log/apport.log.2.gz
+/var/log/apport.log.4.gz
+/var/log/apt/term.log.1.gz
+/var/log/apport.log.5.gz
+/var/log/unattended-upgrades/unattended-upgrades.log.1.gz
+/var/log/apport.log.6.gz
+/var/log/unattended-upgrades/unattended-upgrades.log
+/var/log/installer/autoinstall-user-data
+/var/log/auth.log.2.gz
+/var/log/installer/subiquity-client-info.log.1811
+/var/log/unattended-upgrades/unattended-upgrades-dpkg.log.1.gz
+/var/log/installer/subiquity-curtin-install.conf
+/var/log/btmp.1
+/var/log/installer/curtin-install-cfg.yaml
+/var/log/installer/block/discover.log
+/var/log/apt/history.log.1.gz
+/var/log/installer/subiquity-server-info.log.1805
+/var/log/installer/subiquity-client-debug.log.1811
+/var/log/apport.log.1
+/var/log/auth.log.1
+/var/log/installer/block/probe-data.json
+/var/log/apt/eipp.log.xz
+/var/log/dmesg.3.gz
+/var/log/dmesg.1.gz
+/var/log/dmesg.2.gz
+/var/log/dmesg.4.gz
+/var/log/alternatives.log.1
+/var/log/landscape/sysinfo.log
+/var/log/auth.log
+/var/log/faillog
+/var/log/wtmp
+/var/log/cloud-init-output.log
+/var/log/installer/subiquity-server-debug.log.1805
+/var/log/bootstrap.log
